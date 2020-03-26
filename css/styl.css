@@ -47,7 +47,7 @@
 .loren-p{
 	font-size: 20px;
 	color: #fff;
-	width:530px;
+	 max-width:530px;
 	text-align: center;
 	line-height: 30px 
 }
@@ -70,6 +70,8 @@
     padding: 20px;
 }
 /*section2*/
+
+
 .second-section-flex{
 	display: flex;
 	justify-content: center;
