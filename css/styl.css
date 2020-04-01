@@ -73,6 +73,9 @@
 /*section2*/
 
 
+/*section2*/
+
+
 .second-section-flex{
 	display: flex;
 	justify-content: center;
@@ -101,8 +104,8 @@
 	margin-bottom: 59px
 
 }
-/*section3*/
 
+/*section3*/
 .section3{
 	background-color: #FAFAFA;
 	padding-top: 80px;
@@ -167,6 +170,9 @@
 	font-size: 17px;
 	margin-bottom: 10px
 	text-transform:capitalize;
+}
+     
+
 }
 
 /*section4*/
